@@ -10,10 +10,13 @@ Kelebihannya web ini ada di kesederhanaan dan user-friendly, sehingga membuat we
 
 kelemahannya (untuk sekarang) masih menggunakan satu database dan satu tabel. dalam arti, isi data dalam database belum dikhususkan untuk masing masing user dan masih berbagi data.
 
+
 Pembagian Tugas
 
 Joy Hans Christabel Sinaga (Backend)  : Database dan Fungsi SQL.
+
 Syahril Fajri Pratama (Frontend)      : UI dan Navigasi WEB
+
 Tugas bersama                         : melakukan Hosting. (Akun host memakai akun Joy)
 
 Link web: http://ineedtodolist.infinityfreeapp.com/
