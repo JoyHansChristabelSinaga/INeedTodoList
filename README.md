@@ -4,6 +4,7 @@ Joy Hans Christabel Sinaga   2017051050
 Syahril Fajri Pratama        2057051017
 
 Penjelasan Singkat:
+
 I Need To Do List seperti namanya merupakan web yang berguna untuk menyimpan list list kegiatan yang akan dilakukan dan waktunya. Singkatnya merupakan agenda kegiatan. Web ini dapat menyimpan kegiatan baru, menghapus kegiatan yang sudah ada, dan mengubah kegiatan yang sudah diinput.
 
 Kelebihannya web ini ada di kesederhanaan dan user-friendly, sehingga membuat web ini mudah diakses dan digunakan dimana saja. 
